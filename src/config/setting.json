@@ -1,0 +1,5 @@
+{
+    "PORT" : 3007,
+    "SECRET": "Gjbjfnqjfjjlwhdhuehwjkwdbj",
+    "EXPIRE": "1h" 
+}
